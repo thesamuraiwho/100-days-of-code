@@ -12,3 +12,5 @@ Started a simple gesture app [here](https://github.com/thesamuraiwho/simple-gest
 Also, I followed [Miguel Grinberg's tutorial](https://blog.miguelgrinberg.com/post/how-to-create-a-react--flask-project) to create a react flask project.
 
 ### R1D2
+
+Started a GUI app to download Pexels Collections [here](https://github.com/thesamuraiwho/pexels-collection-downloader) to get some experience to build up to the simple gesture app. Mostly was dealing with issues with PySimpleGUI and re-learning how to setup the layout and tried creating a settings file.
