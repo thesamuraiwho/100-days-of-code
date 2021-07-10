@@ -14,3 +14,7 @@ Also, I followed [Miguel Grinberg's tutorial](https://blog.miguelgrinberg.com/po
 ### R1D2
 
 Started a GUI app to download Pexels Collections [here](https://github.com/thesamuraiwho/pexels-collection-downloader) to get some experience to build up to the simple gesture app. Mostly was dealing with issues with PySimpleGUI and re-learning how to setup the layout and tried creating a settings file.
+
+### R1D3
+
+Re-designing app to be two windows (one for setup, such as the API, and one to select collections and download). Having a bit of issues trying to get some of the code to play nicely so didn't get much working. Had a huge problem with accessing the repo with SSH keys and finally gave up and set my old account as a collaborator. ;)
