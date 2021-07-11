@@ -18,3 +18,7 @@ Started a GUI app to download Pexels Collections [here](https://github.com/thesa
 ### R1D3
 
 Re-designing app to be two windows (one for setup, such as the API, and one to select collections and download). Having a bit of issues trying to get some of the code to play nicely so didn't get much working. Had a huge problem with accessing the repo with SSH keys and finally gave up and set my old account as a collaborator. ;)
+
+### R1D4
+
+Re-design the app again now with two user paths: initial setup and already setup. Working on pysimplegui to get it to start with a window to prompt for the api key when the the settings.json only has a blank key. Having issues with this, collections not being all requested, interaction between clicking a selection in the listbox to show details in a text element.
