@@ -22,3 +22,14 @@ Re-designing app to be two windows (one for setup, such as the API, and one to s
 ### R1D4
 
 Re-design the app again now with two user paths: initial setup and already setup. Working on pysimplegui to get it to start with a window to prompt for the api key when the the settings.json only has a blank key. Having issues with this, collections not being all requested, interaction between clicking a selection in the listbox to show details in a text element.
+
+### R1D5
+
+Missed so added a day 101.
+
+### R1D6
+
+Adding functionality to capture up to 80 collections in one go, but currently don't handle 80+ collections. Adding description of collection upon selection in listbox. Currently this display is not efficient since a list comprehension is created for each field.
+
+
+### R1D101
