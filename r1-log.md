@@ -35,4 +35,10 @@ Adding functionality to capture up to 80 collections in one go, but currently do
 
 Adding functionality to get every collection instead of up to 80. Working on getting downloading pictures and videos next. Major struggle was determining the write way to approach combining the multiple json requests that may be required.
 
+### R1D8
+
+Refactoring code and simplifying work. Adding downloading pictures and videos.
+
+
+
 ### R1D101
