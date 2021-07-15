@@ -39,6 +39,8 @@ Adding functionality to get every collection instead of up to 80. Working on get
 
 Refactoring code and simplifying work. Adding downloading pictures and videos.
 
+### R1D9
 
+Working on getting image preview. Issue with handling media api and figuring out a good way to display preview selection of a
 
 ### R1D101
