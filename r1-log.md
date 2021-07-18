@@ -43,4 +43,8 @@ Refactoring code and simplifying work. Adding downloading pictures and videos.
 
 Working on getting image preview. Issue with handling media api and figuring out a good way to display preview selection of a
 
+### R1D10
+
+Spent most of the time trying to fix my get_json() function since it would not combine dictionaries together correctly. Still trying to fix it.
+
 ### R1D101
