@@ -47,4 +47,10 @@ Working on getting image preview. Issue with handling media api and figuring out
 
 Spent most of the time trying to fix my get_json() function since it would not combine dictionaries together correctly. Still trying to fix it.
 
+### R1D11
+
+Missed day so added d102
+
 ### R1D101
+
+### R1D102
