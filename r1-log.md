@@ -51,6 +51,10 @@ Spent most of the time trying to fix my get_json() function since it would not c
 
 Missed day so added d102
 
+### R1D12
+
+Determined the issue with json collections media merging due to conflicting names for keys causing values to be replaced rather than combined. Solution uses the tag 'media' rather than the whole thing. Thus, instead of working on dictionaries, I'm working with lists. Did hit rate limit for api so will need to check for that in the future and reduce requests.
+
 ### R1D101
 
 ### R1D102
