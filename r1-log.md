@@ -67,6 +67,10 @@ Adding work on downloading photos and videos and file browser for download locat
 
 Missed day so added 104
 
+### R1D16
+
+Adding home path setting, photo quality selection, and GUI layout with columns. Cleaning up code.
+
 ### R1D101
 
 ### R1D102
