@@ -59,8 +59,18 @@ Determined the issue with json collections media merging due to conflicting name
 
 Missed day so added d103
 
+### R1D14
+
+Adding work on downloading photos and videos and file browser for download location. Still working on cleaning up the layout of the window layout and handling edge cases.
+
+### R1D15
+
+Missed day so added 104
+
 ### R1D101
 
 ### R1D102
 
 ### R1D103
+
+### R1D104
