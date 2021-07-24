@@ -75,6 +75,10 @@ Adding home path setting, photo quality selection, and GUI layout with columns. 
 
 Adding output box to inform user. Outputs messages for selecting a collection, changing photo download quality, and download info. May add options for controlling downloading photos and videos, photos only, and videos only.
 
+### R1D18
+
+Adding media options to download. Resizing the layout. Sorting list box options for collections. Refactoring code. Still trying to figure out edge cases and how to deal with invalid api and invalid home directory.
+
 ### R1D101
 
 ### R1D102
