@@ -71,6 +71,10 @@ Missed day so added 104
 
 Adding home path setting, photo quality selection, and GUI layout with columns. Cleaning up code.
 
+### R1D17
+
+Adding output box to inform user. Outputs messages for selecting a collection, changing photo download quality, and download info. May add options for controlling downloading photos and videos, photos only, and videos only.
+
 ### R1D101
 
 ### R1D102
