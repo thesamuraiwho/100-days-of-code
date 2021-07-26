@@ -79,6 +79,10 @@ Adding output box to inform user. Outputs messages for selecting a collection, c
 
 Adding media options to download. Resizing the layout. Sorting list box options for collections. Refactoring code. Still trying to figure out edge cases and how to deal with invalid api and invalid home directory.
 
+### R1D19
+
+Optimizing the layout of the app to be more space efficient. Adding url tooltip links for my github and pexels.com. Working on getting api key validation and hourly rate check but having a lot of issues trying to handle the issue and figuring out where to handle it. Also, having a bug with monthly rate limits somewhere.
+
 ### R1D101
 
 ### R1D102
