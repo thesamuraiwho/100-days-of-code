@@ -83,6 +83,10 @@ Adding media options to download. Resizing the layout. Sorting list box options 
 
 Optimizing the layout of the app to be more space efficient. Adding url tooltip links for my github and pexels.com. Working on getting api key validation and hourly rate check but having a lot of issues trying to handle the issue and figuring out where to handle it. Also, having a bug with monthly rate limits somewhere.
 
+### R1D20
+
+Adding checks for API and home directory and appropriate indications for invalid input for initial setup. Struggling with cleaning up the code and handling events for changing settings later on. Still having issues with the rate limit, quota reset time, and hourly use.
+
 ### R1D101
 
 ### R1D102
