@@ -87,6 +87,10 @@ Optimizing the layout of the app to be more space efficient. Adding url tooltip 
 
 Adding checks for API and home directory and appropriate indications for invalid input for initial setup. Struggling with cleaning up the code and handling events for changing settings later on. Still having issues with the rate limit, quota reset time, and hourly use.
 
+### R1D21
+
+Refactoring codebase to reduce complexity and verbosity. Fixed change settings option. Need to handle excpetions and clean up code further but most of the app is working. Still have an issue with api rate limit and quota time.
+
 ### R1D101
 
 ### R1D102
