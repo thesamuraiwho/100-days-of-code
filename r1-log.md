@@ -91,6 +91,10 @@ Adding checks for API and home directory and appropriate indications for invalid
 
 Refactoring codebase to reduce complexity and verbosity. Fixed change settings option. Need to handle excpetions and clean up code further but most of the app is working. Still have an issue with api rate limit and quota time.
 
+### R1D22
+
+Removing the rate limit and quota functionality because of limitations in time. Adding handling of case where valid settings but issue with communication with api itself. Planning on wrapping up the app soon hopefully just to get on to the next thing.
+
 ### R1D101
 
 ### R1D102
