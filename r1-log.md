@@ -95,6 +95,10 @@ Refactoring codebase to reduce complexity and verbosity. Fixed change settings o
 
 Removing the rate limit and quota functionality because of limitations in time. Adding handling of case where valid settings but issue with communication with api itself. Planning on wrapping up the app soon hopefully just to get on to the next thing.
 
+### R1D23
+
+Working on simple gesture app now while getting help to qa and release the pexels downloader app. Just some dusting off of old code and setting up basic settings to make app similar to adorkastock and line of action.
+
 ### R1D101
 
 ### R1D102
