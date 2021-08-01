@@ -99,6 +99,10 @@ Removing the rate limit and quota functionality because of limitations in time. 
 
 Working on simple gesture app now while getting help to qa and release the pexels downloader app. Just some dusting off of old code and setting up basic settings to make app similar to adorkastock and line of action.
 
+### R1D24
+
+Missed day so adding d105.
+
 ### R1D101
 
 ### R1D102
@@ -106,3 +110,5 @@ Working on simple gesture app now while getting help to qa and release the pexel
 ### R1D103
 
 ### R1D104
+
+### R1D105
