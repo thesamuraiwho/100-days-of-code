@@ -107,6 +107,10 @@ Missed day so adding d105.
 
 Spent time creating a release candidate [here](https://github.com/thesamuraiwho/pexels-collection-downloader/releases/tag/v1.0.0-rc1). Tried using igraph module but had many issues getting it to work from setup. Integrating settings for the gesture app.
 
+### R1D26  
+
+Working on UI for gesture app. Trying to change app to be single page.
+
 ### R1D101
 
 ### R1D102
