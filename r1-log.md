@@ -115,6 +115,10 @@ Working on UI for gesture app. Trying to change app to be single page.
 
 Missed day so adding d106.
 
+### R1D28
+
+Working on gesture app. Creating browsing and app initialization in one page. Working on three modes for the app.
+
 ### R1D101
 
 ### R1D102
