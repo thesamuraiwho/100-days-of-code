@@ -111,6 +111,10 @@ Spent time creating a release candidate [here](https://github.com/thesamuraiwho/
 
 Working on UI for gesture app. Trying to change app to be single page.
 
+### R1D27
+
+Missed day so adding d106.
+
 ### R1D101
 
 ### R1D102
