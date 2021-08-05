@@ -119,6 +119,10 @@ Missed day so adding d106.
 
 Working on gesture app. Creating browsing and app initialization in one page. Working on three modes for the app.
 
+### R1D29
+
+Adding mode cycling. After successfully opening a folder of images the constant mode controls are shown. These controls can be changed depending on the mode the user want to choose.
+
 ### R1D101
 
 ### R1D102
