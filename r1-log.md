@@ -123,6 +123,10 @@ Working on gesture app. Creating browsing and app initialization in one page. Wo
 
 Adding mode cycling. After successfully opening a folder of images the constant mode controls are shown. These controls can be changed depending on the mode the user want to choose.
 
+### R1D30
+
+Adding stopwatch functionality. Having issues with the reset after time hits zero because the next second is cut short.
+
 ### R1D101
 
 ### R1D102
