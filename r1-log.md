@@ -127,6 +127,10 @@ Adding mode cycling. After successfully opening a folder of images the constant 
 
 Adding stopwatch functionality. Having issues with the reset after time hits zero because the next second is cut short.
 
+### R1D31
+
+Adding nexttimeout selection for constant mode. Refactoring the buttons for uniform looks.
+
 ### R1D101
 
 ### R1D102
