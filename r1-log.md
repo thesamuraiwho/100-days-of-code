@@ -131,6 +131,12 @@ Adding stopwatch functionality. Having issues with the reset after time hits zer
 
 Adding nexttimeout selection for constant mode. Refactoring the buttons for uniform looks.
 
+### R1D32
+
+Missed day so adding d107.
+
+
+
 ### R1D101
 
 ### R1D102
@@ -142,3 +148,5 @@ Adding nexttimeout selection for constant mode. Refactoring the buttons for unif
 ### R1D105
 
 ### R1D106
+
+### R1D107
