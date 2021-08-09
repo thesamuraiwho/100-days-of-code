@@ -135,7 +135,9 @@ Adding nexttimeout selection for constant mode. Refactoring the buttons for unif
 
 Missed day so adding d107.
 
+### R1D33
 
+Updating pexels downloader for rc 2. Adding class mode checks on gesture app.
 
 ### R1D101
 
