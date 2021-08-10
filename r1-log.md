@@ -139,6 +139,10 @@ Missed day so adding d107.
 
 Updating pexels downloader for rc 2. Adding class mode checks on gesture app.
 
+### R1D34
+
+Adding more checks for gesture app to change between the three sub modes.
+
 ### R1D101
 
 ### R1D102
