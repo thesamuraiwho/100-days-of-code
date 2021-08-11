@@ -143,6 +143,10 @@ Updating pexels downloader for rc 2. Adding class mode checks on gesture app.
 
 Adding more checks for gesture app to change between the three sub modes.
 
+### R1D35
+
+Separating file browsing and controls. Refactoring and redesigning code.
+
 ### R1D101
 
 ### R1D102
