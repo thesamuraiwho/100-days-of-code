@@ -147,6 +147,10 @@ Adding more checks for gesture app to change between the three sub modes.
 
 Separating file browsing and controls. Refactoring and redesigning code.
 
+### R1D36
+
+Adding work on getting info on poses for class mode. Having issues with UI time reset not reacting to switching modes correctly yet and issues with pose switching in class mode.
+
 ### R1D101
 
 ### R1D102
