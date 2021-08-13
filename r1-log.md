@@ -151,6 +151,10 @@ Separating file browsing and controls. Refactoring and redesigning code.
 
 Adding work on getting info on poses for class mode. Having issues with UI time reset not reacting to switching modes correctly yet and issues with pose switching in class mode.
 
+### R1D37
+
+Removing custom mode and fixing the logic for class and constant mode. Still have to fix conditions for next pose timeout values and selection timeout.
+
 ### R1D101
 
 ### R1D102
