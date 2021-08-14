@@ -155,6 +155,10 @@ Adding work on getting info on poses for class mode. Having issues with UI time 
 
 Removing custom mode and fixing the logic for class and constant mode. Still have to fix conditions for next pose timeout values and selection timeout.
 
+### R1D38
+
+Moving work into two new classes: class_mode and clock. This helps simplify and remove redundancy in the code hopefully. Finally got the poses list to work but need to check it's looping functionality.
+
 ### R1D101
 
 ### R1D102
