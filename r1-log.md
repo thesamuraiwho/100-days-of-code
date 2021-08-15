@@ -159,6 +159,10 @@ Removing custom mode and fixing the logic for class and constant mode. Still hav
 
 Moving work into two new classes: class_mode and clock. This helps simplify and remove redundancy in the code hopefully. Finally got the poses list to work but need to check it's looping functionality.
 
+### R1D39
+
+Adding emoji icons. Fixing bug with cycling issue in class mode.
+
 ### R1D101
 
 ### R1D102
