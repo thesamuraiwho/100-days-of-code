@@ -163,6 +163,10 @@ Moving work into two new classes: class_mode and clock. This helps simplify and 
 
 Adding emoji icons. Fixing bug with cycling issue in class mode.
 
+### R1D40
+
+Adding graceful recovery on cancelling folder selection and folder with no images.
+
 ### R1D101
 
 ### R1D102
