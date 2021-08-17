@@ -167,6 +167,10 @@ Adding emoji icons. Fixing bug with cycling issue in class mode.
 
 Adding graceful recovery on cancelling folder selection and folder with no images.
 
+### R1D41
+
+Adding settings memory for the last valid directory of images. Refactoring the code by removing old code. Moving to final MVP stage since most functionality works on current version.
+
 ### R1D101
 
 ### R1D102
