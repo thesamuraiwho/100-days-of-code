@@ -171,6 +171,10 @@ Adding graceful recovery on cancelling folder selection and folder with no image
 
 Adding settings memory for the last valid directory of images. Refactoring the code by removing old code. Moving to final MVP stage since most functionality works on current version.
 
+### R1D42
+
+Working on building app and refactoring. Had to fix an issue with emojis after having to rebuild my environment.
+
 ### R1D101
 
 ### R1D102
