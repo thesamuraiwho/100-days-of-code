@@ -175,6 +175,10 @@ Adding settings memory for the last valid directory of images. Refactoring the c
 
 Working on building app and refactoring. Had to fix an issue with emojis after having to rebuild my environment.
 
+### R1D43
+
+Missed day so adding d108.
+
 ### R1D101
 
 ### R1D102
@@ -188,3 +192,5 @@ Working on building app and refactoring. Had to fix an issue with emojis after h
 ### R1D106
 
 ### R1D107
+
+### R1D108
