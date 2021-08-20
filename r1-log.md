@@ -179,6 +179,10 @@ Working on building app and refactoring. Had to fix an issue with emojis after h
 
 Missed day so adding d108.
 
+### R1D44
+
+Minor changes to gesture app. Stopping development on it. Moving on to web and blender addon projects.
+
 ### R1D101
 
 ### R1D102
