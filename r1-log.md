@@ -183,6 +183,10 @@ Missed day so adding d108.
 
 Minor changes to gesture app. Stopping development on it. Moving on to web and blender addon projects.
 
+### R1D45
+
+Missed day so adding d109.
+
 ### R1D101
 
 ### R1D102
@@ -198,3 +202,5 @@ Minor changes to gesture app. Stopping development on it. Moving on to web and b
 ### R1D107
 
 ### R1D108
+
+### R1D109
