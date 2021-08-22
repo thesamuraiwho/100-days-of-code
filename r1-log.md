@@ -187,6 +187,10 @@ Minor changes to gesture app. Stopping development on it. Moving on to web and b
 
 Missed day so adding d109.
 
+### R1D46
+
+Working on flask, beautifulsoup, api project with the aim of completing games. Working with the cheapshark api and trying to work with howlongtobeat.
+
 ### R1D101
 
 ### R1D102
