@@ -195,6 +195,10 @@ Working on flask, beautifulsoup, api project with the aim of completing games. W
 
 Missed day so adding d110.
 
+### R1D48
+
+Working on a basic blender addon that creates a 360 orbit camera.
+
 ### R1D101
 
 ### R1D102
