@@ -191,6 +191,10 @@ Missed day so adding d109.
 
 Working on flask, beautifulsoup, api project with the aim of completing games. Working with the cheapshark api and trying to work with howlongtobeat.
 
+### R1D47
+
+Missed day so adding d110.
+
 ### R1D101
 
 ### R1D102
@@ -208,3 +212,5 @@ Working on flask, beautifulsoup, api project with the aim of completing games. W
 ### R1D108
 
 ### R1D109
+
+### R1D110
