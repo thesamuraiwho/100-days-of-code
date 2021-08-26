@@ -203,6 +203,10 @@ Working on a basic blender addon that creates a 360 orbit camera.
 
 Missed day so adding d111.
 
+### R1D50
+
+Adding work for blender addon. Adding keyframe insertion and object oration for keyframes and object deletion by name.
+
 ### R1D101
 
 ### R1D102
