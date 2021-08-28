@@ -211,6 +211,10 @@ Adding work for blender addon. Adding keyframe insertion and object oration for 
 
 Missed day so adding d112.
 
+### R1D52
+
+Blender orbit cam addon registered as addon now with collections, orbit, and keyframes to 60 frames.
+
 ### R1D101
 
 ### R1D102
