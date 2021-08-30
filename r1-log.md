@@ -219,6 +219,10 @@ Blender orbit cam addon registered as addon now with collections, orbit, and key
 
 Missed day so adding d113
 
+### R1D54
+
+Minor refactoring work for blender addon work. Learning how to use opencv and media pipes with aim with animation with just one camera (have been looking at work already done by others such as openpose and blendypose).
+
 ### R1D101
 
 ### R1D102
