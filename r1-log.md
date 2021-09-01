@@ -223,6 +223,10 @@ Missed day so adding d113
 
 Minor refactoring work for blender addon work. Learning how to use opencv and media pipes with aim with animation with just one camera (have been looking at work already done by others such as openpose and blendypose).
 
+### R1D55
+
+Missed day so adding d114.
+
 ### R1D101
 
 ### R1D102
