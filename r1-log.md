@@ -227,6 +227,10 @@ Minor refactoring work for blender addon work. Learning how to use opencv and me
 
 Missed day so adding d114.
 
+### R1D56
+
+Didn't get much done. Tried to improve a fork of the BlendyPose addon but couldn't quite figure out how to set up install dependencies in the UI. Maybe going to move on to some web stuff in the meantime.
+
 ### R1D101
 
 ### R1D102
