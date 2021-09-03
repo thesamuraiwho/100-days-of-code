@@ -235,6 +235,10 @@ Didn't get much done. Tried to improve a fork of the BlendyPose addon but couldn
 
 Missed day so adding d115.
 
+### R1D58
+
+Got the second project for FCC responsive web design project done. It looks ugly but it passes all the tests. I realize I've forgotten more that I had thought and need to do a lot of catch up. I also spent a bunch of time updating my portfolio/personal website [here](https://www.brandondle.com/index.html).
+
 ### R1D101
 
 ### R1D102
