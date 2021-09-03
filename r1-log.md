@@ -231,6 +231,10 @@ Missed day so adding d114.
 
 Didn't get much done. Tried to improve a fork of the BlendyPose addon but couldn't quite figure out how to set up install dependencies in the UI. Maybe going to move on to some web stuff in the meantime.
 
+### R1D57
+
+Missed day so adding d115.
+
 ### R1D101
 
 ### R1D102
@@ -256,3 +260,5 @@ Didn't get much done. Tried to improve a fork of the BlendyPose addon but couldn
 ### R1D112
 
 ### R1D113
+
+### R1D115
