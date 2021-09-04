@@ -239,6 +239,10 @@ Missed day so adding d115.
 
 Got the second project for FCC responsive web design project done. It looks ugly but it passes all the tests. I realize I've forgotten more that I had thought and need to do a lot of catch up. I also spent a bunch of time updating my portfolio/personal website [here](https://www.brandondle.com/index.html).
 
+### R1D59
+
+Updated my portfolio website further to remove/comment empty or placeholder elements. Got two more parts of the FCC responsive web design project done. My projects look ugly but they pass the tests.
+
 ### R1D101
 
 ### R1D102
