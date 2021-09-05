@@ -243,6 +243,10 @@ Got the second project for FCC responsive web design project done. It looks ugly
 
 Updated my portfolio website further to remove/comment empty or placeholder elements. Got two more parts of the FCC responsive web design project done. My projects look ugly but they pass the tests.
 
+### R1D60
+
+Got my certification for the FCC responsive web design. The projects I submitted were basic but helpful for me to move on to my own projects. I'll be practicing some basic websites soon. I'm also refreshing on Javascript (too much procrastination/decay).
+
 ### R1D101
 
 ### R1D102
