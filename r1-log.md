@@ -247,6 +247,10 @@ Updated my portfolio website further to remove/comment empty or placeholder elem
 
 Got my certification for the FCC responsive web design. The projects I submitted were basic but helpful for me to move on to my own projects. I'll be practicing some basic websites soon. I'm also refreshing on Javascript (too much procrastination/decay).
 
+### R1D61
+
+Missed day so adding d116.
+
 ### R1D101
 
 ### R1D102
@@ -274,3 +278,5 @@ Got my certification for the FCC responsive web design. The projects I submitted
 ### R1D113
 
 ### R1D115
+
+### R1D116
