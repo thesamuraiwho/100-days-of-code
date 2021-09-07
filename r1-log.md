@@ -251,6 +251,10 @@ Got my certification for the FCC responsive web design. The projects I submitted
 
 Missed day so adding d116.
 
+### R1D62
+
+Working on FCC Javascript course to brush up and fill in the blanks. Got through to about 90% of the basics.
+
 ### R1D101
 
 ### R1D102
