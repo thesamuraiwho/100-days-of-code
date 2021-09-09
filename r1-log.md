@@ -259,6 +259,10 @@ Working on FCC Javascript course to brush up and fill in the blanks. Got through
 
 Missed day so adding d117.
 
+### R1D64
+
+Finished the basic JS part of fcc js. Finished the first project for the certification too!
+
 ### R1D101
 
 ### R1D102
