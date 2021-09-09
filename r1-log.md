@@ -255,6 +255,10 @@ Missed day so adding d116.
 
 Working on FCC Javascript course to brush up and fill in the blanks. Got through to about 90% of the basics.
 
+### R1D63
+
+Missed day so adding d117.
+
 ### R1D101
 
 ### R1D102
@@ -284,3 +288,5 @@ Working on FCC Javascript course to brush up and fill in the blanks. Got through
 ### R1D115
 
 ### R1D116
+
+### R1D117
