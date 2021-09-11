@@ -263,6 +263,10 @@ Missed day so adding d117.
 
 Finished the basic JS part of fcc js. Finished the first project for the certification too!
 
+### R1D65
+
+Missed day so adding d118.
+
 ### R1D101
 
 ### R1D102
@@ -294,3 +298,5 @@ Finished the basic JS part of fcc js. Finished the first project for the certifi
 ### R1D116
 
 ### R1D117
+
+### R1D118
