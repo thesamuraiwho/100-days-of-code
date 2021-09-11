@@ -267,6 +267,10 @@ Finished the basic JS part of fcc js. Finished the first project for the certifi
 
 Missed day so adding d118.
 
+### R1D66
+
+Finished ES6 part of fcc js. Working on project 2 with roman numerals but a bit stuck on handling various cases with subtraction, addition, and repeats.
+
 ### R1D101
 
 ### R1D102
