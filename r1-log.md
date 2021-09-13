@@ -275,6 +275,10 @@ Finished ES6 part of fcc js. Working on project 2 with roman numerals but a bit 
 
 Missed day so adding d119.
 
+### R1D68
+
+Working on regex part of fcc js. Had issues with some sections so it took longer than expected. Had issues with some of the combination levels.
+
 ### R1D101
 
 ### R1D102
