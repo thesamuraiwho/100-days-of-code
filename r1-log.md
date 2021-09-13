@@ -271,6 +271,10 @@ Missed day so adding d118.
 
 Finished ES6 part of fcc js. Working on project 2 with roman numerals but a bit stuck on handling various cases with subtraction, addition, and repeats.
 
+### R1D67
+
+Missed day so adding d119.
+
 ### R1D101
 
 ### R1D102
@@ -304,3 +308,5 @@ Finished ES6 part of fcc js. Working on project 2 with roman numerals but a bit 
 ### R1D117
 
 ### R1D118
+
+### R1D119
