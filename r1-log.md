@@ -279,6 +279,10 @@ Missed day so adding d119.
 
 Working on regex part of fcc js. Had issues with some sections so it took longer than expected. Had issues with some of the combination levels.
 
+### R1D69
+
+Missed 1 hour mark so adding d120.
+
 ### R1D101
 
 ### R1D102
@@ -314,3 +318,5 @@ Working on regex part of fcc js. Had issues with some sections so it took longer
 ### R1D118
 
 ### R1D119
+
+### R1D120
