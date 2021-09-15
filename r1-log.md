@@ -283,6 +283,10 @@ Working on regex part of fcc js. Had issues with some sections so it took longer
 
 Missed 1 hour mark so adding d120.
 
+### R1D70
+
+Working on leetcode algo question. Got stuck and realized how rusty I've gotten. Got through rest of regex part and debugging part of fcc js.
+
 ### R1D101
 
 ### R1D102
