@@ -287,6 +287,10 @@ Missed 1 hour mark so adding d120.
 
 Working on leetcode algo question. Got stuck and realized how rusty I've gotten. Got through rest of regex part and debugging part of fcc js.
 
+### R1D71
+
+Working on leetcode algo questions (easier ones) and got them done. Go through the data structures part of fcc js. There were parts that I got stuck on, especially using certain methods and combining methods, but I got through it.
+
 ### R1D101
 
 ### R1D102
