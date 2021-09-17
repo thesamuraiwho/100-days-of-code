@@ -295,7 +295,9 @@ Working on leetcode algo questions (easier ones) and got them done. Go through t
 
 Missed day so adding d121.
 
+### R1D73
 
+Finished fcc js basic algo. Still rusty but need to get notes on stuff because already starting to forget stuff. On the brightside, I'm getting more comfortable with javascript finally.
 
 ### R1D101
 
