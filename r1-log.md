@@ -291,6 +291,12 @@ Working on leetcode algo question. Got stuck and realized how rusty I've gotten.
 
 Working on leetcode algo questions (easier ones) and got them done. Go through the data structures part of fcc js. There were parts that I got stuck on, especially using certain methods and combining methods, but I got through it.
 
+### R1D72
+
+Missed day so adding d121.
+
+
+
 ### R1D101
 
 ### R1D102
@@ -328,3 +334,5 @@ Working on leetcode algo questions (easier ones) and got them done. Go through t
 ### R1D119
 
 ### R1D120
+
+### R1D121
