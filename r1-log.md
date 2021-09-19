@@ -299,6 +299,10 @@ Missed day so adding d121.
 
 Finished fcc js basic algo. Still rusty but need to get notes on stuff because already starting to forget stuff. On the brightside, I'm getting more comfortable with javascript finally.
 
+### R1D74
+
+Finished fcc js oop. Inheritance in js is weird but with some practice, I think I can get it. It's a very odd approach compared to what I'm used to in python and c++. Maybe I just need to wrap my head around it a bit more.
+
 ### R1D101
 
 ### R1D102
