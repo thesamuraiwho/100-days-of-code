@@ -311,6 +311,10 @@ Working on fcc js functional programming. It's a bit tricky remembering my haske
 
 Missed 1 hour mark so adding d122.
 
+### R1D77
+
+Working on fcc js intermediate algorithms. I finished the functional programming part yesterday. The intermediate algorithms is a lot of combining what was in the previous sections to make them stronger but it's taking longer than I would expect. But it's still fun!
+
 ### R1D101
 
 ### R1D102
