@@ -307,6 +307,10 @@ Finished fcc js oop. Inheritance in js is weird but with some practice, I think 
 
 Working on fcc js functional programming. It's a bit tricky remembering my haskell class as it applies here. Reduce is the trickiest method for me because it has the accumulator.
 
+### R1D76
+
+Missed 1 hour mark so adding d122.
+
 ### R1D101
 
 ### R1D102
@@ -346,3 +350,5 @@ Working on fcc js functional programming. It's a bit tricky remembering my haske
 ### R1D120
 
 ### R1D121
+
+### R1D122
