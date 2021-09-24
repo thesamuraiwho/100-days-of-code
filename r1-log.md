@@ -319,6 +319,10 @@ Working on fcc js intermediate algorithms. I finished the functional programming
 
 Missed day so adding d123.
 
+### R1D79
+
+Missed day so adding d124.
+
 ### R1D101
 
 ### R1D102
@@ -362,3 +366,5 @@ Missed day so adding d123.
 ### R1D122
 
 ### R1D123
+
+### R1D124
