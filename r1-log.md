@@ -331,6 +331,10 @@ Working on fcc js intermediate algorithms. I'm having a lot of trouble combining
 
 Missed day os adding d125.
 
+### R1D82
+
+Finished main coursework for fcc js. Finished Ceasar cipher challenge too. ALgorithms are hard, but I'm getting the hang of js a bit better now.
+
 ### R1D101
 
 ### R1D102
