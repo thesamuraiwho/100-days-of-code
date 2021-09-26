@@ -327,6 +327,10 @@ Missed day so adding d124.
 
 Working on fcc js intermediate algorithms. I'm having a lot of trouble combining or even remembering some of the techniques so will have to review and create some notes. Python also keeps making me confused when working with js but I think a comparison sheet might be helpful.
 
+### R1D81
+
+Missed day os adding d125.
+
 ### R1D101
 
 ### R1D102
@@ -372,3 +376,5 @@ Working on fcc js intermediate algorithms. I'm having a lot of trouble combining
 ### R1D123
 
 ### R1D124
+
+### R1D126
