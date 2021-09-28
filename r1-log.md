@@ -335,6 +335,10 @@ Missed day os adding d125.
 
 Finished main coursework for fcc js. Finished Ceasar cipher challenge too. ALgorithms are hard, but I'm getting the hang of js a bit better now.
 
+### R1D83
+
+Got through most of the challenges for fcc js. Only one left!
+
 ### R1D101
 
 ### R1D102
