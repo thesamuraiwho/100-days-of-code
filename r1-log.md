@@ -339,6 +339,10 @@ Finished main coursework for fcc js. Finished Ceasar cipher challenge too. ALgor
 
 Got through most of the challenges for fcc js. Only one left!
 
+### R1D84
+
+Finished fcc js. Moving on to frontend work. Did some python review and notes too.
+
 ### R1D101
 
 ### R1D102
