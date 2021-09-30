@@ -343,6 +343,10 @@ Got through most of the challenges for fcc js. Only one left!
 
 Finished fcc js. Moving on to frontend work. Did some python review and notes too.
 
+### R1D85
+
+Working on Guilty Gear Pretty Move List. Got generation from local json to work so far.
+
 ### R1D101
 
 ### R1D102
