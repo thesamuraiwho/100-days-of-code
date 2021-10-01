@@ -347,6 +347,10 @@ Finished fcc js. Moving on to frontend work. Did some python review and notes to
 
 Working on Guilty Gear Pretty Move List. Got generation from local json to work so far.
 
+### R1D86
+
+Adding radio button character selection on gg-movelist. Along with move list generation with followup moves as well. Currently only work for Anji, but just needs some more work with json. Also, I got clearing of child elements to work so I don't spam moves.
+
 ### R1D101
 
 ### R1D102
