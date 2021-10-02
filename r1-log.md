@@ -351,6 +351,10 @@ Working on Guilty Gear Pretty Move List. Got generation from local json to work 
 
 Adding radio button character selection on gg-movelist. Along with move list generation with followup moves as well. Currently only work for Anji, but just needs some more work with json. Also, I got clearing of child elements to work so I don't spam moves.
 
+### R1D87
+
+Working on a python webscraping script so I don't have to manually enter all the data for the gg-movelists because that's been hell and I only got three characters kinda done. bs4 is beautiful indeed.
+
 ### R1D101
 
 ### R1D102
