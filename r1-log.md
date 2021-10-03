@@ -355,6 +355,10 @@ Adding radio button character selection on gg-movelist. Along with move list gen
 
 Working on a python webscraping script so I don't have to manually enter all the data for the gg-movelists because that's been hell and I only got three characters kinda done. bs4 is beautiful indeed.
 
+### R1D88
+
+Missed day so adding d126.
+
 ### R1D101
 
 ### R1D102
@@ -400,5 +404,7 @@ Working on a python webscraping script so I don't have to manually enter all the
 ### R1D123
 
 ### R1D124
+
+### R1D125
 
 ### R1D126
