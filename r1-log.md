@@ -359,6 +359,10 @@ Working on a python webscraping script so I don't have to manually enter all the
 
 Missed day so adding d126.
 
+### R1D89
+
+Continuing work on the python webscraping script and got moves for Goldlewis in a reasonable order. Will be filtering more with `.descendants` instead of my previous process. Learning a lot about beautifulsoup!
+
 ### R1D101
 
 ### R1D102
