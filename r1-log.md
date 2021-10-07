@@ -367,6 +367,10 @@ Continuing work on the python webscraping script and got moves for Goldlewis in 
 
 Working on some more scraping with jack-o but having issues dealing with followup moves. Adding char name overlay on thumbnail selection images. Adding vertical separator. Adding scrolling overflow-y for both character selection and movelist. Fixed a rendering error where since the character names are rendered first, the images would cover them so I had to swap the rendering order.
 
+### R1D91
+
+Missed day so adding d127.
+
 ### R1D101
 
 ### R1D102
@@ -416,3 +420,5 @@ Working on some more scraping with jack-o but having issues dealing with followu
 ### R1D125
 
 ### R1D126
+
+### R1D127
