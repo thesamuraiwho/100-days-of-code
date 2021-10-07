@@ -371,6 +371,10 @@ Working on some more scraping with jack-o but having issues dealing with followu
 
 Missed day so adding d127.
 
+### R1D92
+
+Adding on hover styles and on radio input check style too. Adding media queries and select elements for preferences.
+
 ### R1D101
 
 ### R1D102
