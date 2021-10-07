@@ -375,6 +375,11 @@ Missed day so adding d127.
 
 Adding on hover styles and on radio input check style too. Adding media queries and select elements for preferences.
 
+### R1D93
+
+Fixing header fixed position Adding new list for links to types of moves. Restyling the
+layout of the general app with fixed header and footer and proportional characters and move list. Custom scrollbars.
+
 ### R1D101
 
 ### R1D102
