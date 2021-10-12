@@ -380,6 +380,14 @@ Adding on hover styles and on radio input check style too. Adding media queries 
 Fixing header fixed position Adding new list for links to types of moves. Restyling the
 layout of the general app with fixed header and footer and proportional characters and move list. Custom scrollbars.
 
+### R1D94
+
+Working on more scraping by putting it altogether: base characters and dlc characters. Added handling of `<br/>` characters, grabbing text not within any text tags, and adding documentation and refactoring the script.
+
+### R1D95
+
+Missed day so adding d128.
+
 ### R1D101
 
 ### R1D102
@@ -431,3 +439,5 @@ layout of the general app with fixed header and footer and proportional characte
 ### R1D126
 
 ### R1D127
+
+### R1D128
