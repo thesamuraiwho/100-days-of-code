@@ -388,6 +388,10 @@ Working on more scraping by putting it altogether: base characters and dlc chara
 
 Missed day so adding d128.
 
+### R1D96
+
+Missed day so adding d129.
+
 ### R1D101
 
 ### R1D102
@@ -441,3 +445,5 @@ Missed day so adding d128.
 ### R1D127
 
 ### R1D128
+
+### R1D129
