@@ -392,6 +392,10 @@ Missed day so adding d128.
 
 Missed day so adding d129.
 
+### R1D97
+
+Working on learning backend with basic flask api.
+
 ### R1D101
 
 ### R1D102
