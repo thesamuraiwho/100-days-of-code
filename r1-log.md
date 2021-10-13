@@ -396,6 +396,10 @@ Missed day so adding d129.
 
 Working on learning backend with basic flask api.
 
+### R1D98
+
+Webscraping now gets all the data correctly formatted, downloads command icons, and changed the character move data structure.
+
 ### R1D101
 
 ### R1D102
