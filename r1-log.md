@@ -400,6 +400,10 @@ Working on learning backend with basic flask api.
 
 Webscraping now gets all the data correctly formatted, downloads command icons, and changed the character move data structure.
 
+### R1D99
+
+Fixed my script to match the original data I used for the frontend. Now the webpage lists icons and text for moves instead of text and URIs. Clicking on the move types now move the scrollbar to the correct section too.
+
 ### R1D101
 
 ### R1D102
