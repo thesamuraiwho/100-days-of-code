@@ -410,6 +410,8 @@ Missed day so adding d130.
 
 ### R1D101
 
+Trying to make style more responsive and get selection to fill the whole container for each character so selection is easier. Having issues because of the form and input since visibility makes an element hidden not remove it from causing issues with spacing.
+
 ### R1D102
 
 ### R1D103
@@ -463,3 +465,5 @@ Missed day so adding d130.
 ### R1D128
 
 ### R1D129
+
+### R1D130
