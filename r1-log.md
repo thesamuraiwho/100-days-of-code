@@ -404,6 +404,10 @@ Webscraping now gets all the data correctly formatted, downloads command icons, 
 
 Fixed my script to match the original data I used for the frontend. Now the webpage lists icons and text for moves instead of text and URIs. Clicking on the move types now move the scrollbar to the correct section too.
 
+### R1D100
+
+Missed day so adding d130.
+
 ### R1D101
 
 ### R1D102
