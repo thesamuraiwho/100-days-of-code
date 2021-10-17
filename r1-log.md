@@ -414,6 +414,8 @@ Trying to make style more responsive and get selection to fill the whole contain
 
 ### R1D102
 
+Got the character selection to have no gaps by using `display: block;` and hiding radio buttons with `display: none;`. Got desktop and mobile UIs looking all right at the moment.
+
 ### R1D103
 
 ### R1D104
