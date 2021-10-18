@@ -418,6 +418,8 @@ Got the character selection to have no gaps by using `display: block;` and hidin
 
 ### R1D103
 
+Restyled and refactored the code. Deployed the project with netlify at https://guilty-gear-pretty-movelist.netlify.app/ but still having issues with mobile version: move type nav still doing funky wrapping and sizing issues caused by footer overlapping commands and moves.
+
 ### R1D104
 
 ### R1D105
