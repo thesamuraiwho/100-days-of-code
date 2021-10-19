@@ -422,6 +422,8 @@ Restyled and refactored the code. Deployed the project with netlify at https://g
 
 ### R1D104
 
+Missed day so adding d131.
+
 ### R1D105
 
 ### R1D106
@@ -471,3 +473,5 @@ Restyled and refactored the code. Deployed the project with netlify at https://g
 ### R1D129
 
 ### R1D130
+
+### R1D131
