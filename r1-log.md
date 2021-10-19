@@ -426,6 +426,8 @@ Missed day so adding d131.
 
 ### R1D105
 
+Added and finalized gg-strive-pretty-movelist project with additional media queries and styling. The project is hosted on netlify as well at https://guilty-gear-pretty-movelist.netlify.app/. It was a fun project, tough at points, but I'm happy I made something, learned html, css, js, and python (webscraping).
+
 ### R1D106
 
 ### R1D107
