@@ -430,6 +430,8 @@ Added and finalized gg-strive-pretty-movelist project with additional media quer
 
 ### R1D106
 
+Missed day so adding d132. New thing in life so still adapting to changes.
+
 ### R1D107
 
 ### R1D108
@@ -477,3 +479,5 @@ Added and finalized gg-strive-pretty-movelist project with additional media quer
 ### R1D130
 
 ### R1D131
+
+### R1D132
