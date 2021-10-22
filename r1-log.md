@@ -434,6 +434,8 @@ Missed day so adding d132. New thing in life so still adapting to changes.
 
 ### R1D107
 
+Working on bootstrap. Going through fcc frontend. Hopefully just review and projects.
+
 ### R1D108
 
 ### R1D109
