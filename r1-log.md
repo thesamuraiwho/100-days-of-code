@@ -442,6 +442,8 @@ Missed day so adding d133.
 
 ### R1D109
 
+Missed day so adding d134. Did ~45 min, but got distracted and exhausted.
+
 ### R1D110
 
 ### R1D111
@@ -487,3 +489,5 @@ Missed day so adding d133.
 ### R1D132
 
 ### R1D133
+
+### R1D134
