@@ -438,6 +438,8 @@ Working on bootstrap. Going through fcc frontend. Hopefully just review and proj
 
 ### R1D108
 
+Missed day so adding d133.
+
 ### R1D109
 
 ### R1D110
@@ -483,3 +485,5 @@ Working on bootstrap. Going through fcc frontend. Hopefully just review and proj
 ### R1D131
 
 ### R1D132
+
+### R1D133
