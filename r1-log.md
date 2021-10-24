@@ -446,6 +446,8 @@ Missed day so adding d134. Did ~45 min, but got distracted and exhausted.
 
 ### R1D110
 
+FCC frontend work. Got through jquery, sass, and a bit of react.
+
 ### R1D111
 
 ### R1D112
