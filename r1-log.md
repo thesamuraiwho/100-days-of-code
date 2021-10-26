@@ -450,6 +450,8 @@ FCC frontend work. Got through jquery, sass, and a bit of react.
 
 ### R1D111
 
+Missed day so adding d135. Too many things going on so didn't reach the 1 hr mark, only 20 min of work.
+
 ### R1D112
 
 ### R1D113
@@ -493,3 +495,5 @@ FCC frontend work. Got through jquery, sass, and a bit of react.
 ### R1D133
 
 ### R1D134
+
+### R1D135
