@@ -458,6 +458,8 @@ Missed day so adding d136. Almost did 1 hour but got distracted and procrastinat
 
 ### R1D113
 
+Got through the react part of fcc frontend. Now for notes and actually doing stuff on my own. There are so many things with react that seem counterintuitive or weird but making some projects will hopefully make it easier to grasp.
+
 ### R1D115
 
 ### R1D116
