@@ -486,9 +486,11 @@ Missed day so adding d142.
 
 ### R1D120
 
-Missed day so adding 143.
+Missed day so adding d143.
 
 ### R1D121
+
+Missed day so adding d144.
 
 ### R1D122
 
@@ -533,3 +535,5 @@ Missed day so adding 143.
 ### R1D142
 
 ### R1D143
+
+### R1D144
