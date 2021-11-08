@@ -506,6 +506,8 @@ Missed day so adding d147.
 
 ### R1D125
 
+Finished working through the Sass notes on fcc frontend. Worked on a side project covering most of the aspects of Sass.
+
 ### R1D126
 
 ### R1D127
