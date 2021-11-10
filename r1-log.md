@@ -510,6 +510,8 @@ Finished working through the Sass notes on fcc frontend. Worked on a side projec
 
 ### R1D126
 
+Starting notes on react part of fcc frontend.
+
 ### R1D127
 
 ### R1D128
