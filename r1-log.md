@@ -514,6 +514,8 @@ Starting notes on react part of fcc frontend.
 
 ### R1D127
 
+Working on react notes for fcc frontend. Got up to "Create a Stateful Component".
+
 ### R1D128
 
 ### R1D129
