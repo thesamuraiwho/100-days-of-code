@@ -518,6 +518,8 @@ Working on react notes for fcc frontend. Got up to "Create a Stateful Component"
 
 ### R1D128
 
+Working on react notes for fcc frontend. Got up to "Create a Controlled Form".
+
 ### R1D129
 
 ### R1D130
