@@ -530,6 +530,8 @@ Missed day so adding d149.
 
 ### R1D131
 
+Working on react notes for fcc frontend. Got up to "Use Advanced JavaScript in React Render Method".
+
 ### R1D132
 
 ### R1D133
