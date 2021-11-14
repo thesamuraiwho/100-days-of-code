@@ -522,6 +522,8 @@ Working on react notes for fcc frontend. Got up to "Create a Controlled Form".
 
 ### R1D129
 
+Missed day so adding d148.
+
 ### R1D130
 
 ### R1D131
