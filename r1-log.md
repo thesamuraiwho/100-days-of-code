@@ -534,6 +534,8 @@ Working on react notes for fcc frontend. Got up to "Use Advanced JavaScript in R
 
 ### R1D132
 
+Finished react part of fcc frontend. Redux next!
+
 ### R1D133
 
 ### R1D134
