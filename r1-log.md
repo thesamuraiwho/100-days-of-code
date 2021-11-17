@@ -538,6 +538,8 @@ Finished react part of fcc frontend. Redux next!
 
 ### R1D133
 
+Working on redux notes. Got up to "Write a Counter with Redux".
+
 ### R1D134
 
 ### R1D135
