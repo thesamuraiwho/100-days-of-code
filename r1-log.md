@@ -542,6 +542,8 @@ Working on redux notes. Got up to "Write a Counter with Redux".
 
 ### R1D134
 
+Finished redux notes. Working on react-redux now.
+
 ### R1D135
 
 ### R1D136
