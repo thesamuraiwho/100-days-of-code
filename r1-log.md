@@ -546,6 +546,8 @@ Finished redux notes. Working on react-redux now.
 
 ### R1D135
 
+Finished react-redux notes. Working on projects now. I've completed the lectures but am still very shaking on concepts and will be reviewing them tomorrow and drawing up some diagrams hopefully.
+
 ### R1D136
 
 ### R1D137
