@@ -550,6 +550,8 @@ Finished react-redux notes. Working on projects now. I've completed the lectures
 
 ### R1D136
 
+Missed day so adding d150.
+
 ### R1D137
 
 ### R1D138
@@ -575,3 +577,5 @@ Finished react-redux notes. Working on projects now. I've completed the lectures
 ### R1D148
 
 ### R1D149
+
+### R1D150
