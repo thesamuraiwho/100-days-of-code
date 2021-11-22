@@ -562,6 +562,8 @@ Missed day so adding d152.
 
 ### R1D139
 
+Finished working on the fcc fe project 1 random quote machine. It's ugly but it works and passes all the tests. Got to learn how to tweet from urls!
+
 ### R1D140
 
 ### R1D141
