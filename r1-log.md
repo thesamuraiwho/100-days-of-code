@@ -570,6 +570,8 @@ Missed day so adding d153.
 
 ### R1D141
 
+Working on fcc fe project 2 markdown previewer. It's ugly and I'm having trouble processing some of the events but things should be fine soon.
+
 ### R1D142
 
 ### R1D143
@@ -591,3 +593,5 @@ Missed day so adding d153.
 ### R1D151
 
 ### R1D152
+
+### R1D153
