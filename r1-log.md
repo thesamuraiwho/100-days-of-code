@@ -566,6 +566,8 @@ Finished working on the fcc fe project 1 random quote machine. It's ugly but it 
 
 ### R1D140
 
+Missed day so adding d153.
+
 ### R1D141
 
 ### R1D142
