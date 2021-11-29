@@ -574,7 +574,10 @@ Working on fcc fe project 2 markdown previewer. It's ugly and I'm having trouble
 
 ### R1D142
 
+Missed day so adding d154.
+
 ### R1D143
+
 
 ### R1D144
 
@@ -595,3 +598,5 @@ Working on fcc fe project 2 markdown previewer. It's ugly and I'm having trouble
 ### R1D152
 
 ### R1D153
+
+### R1D154
