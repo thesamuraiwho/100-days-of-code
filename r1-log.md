@@ -586,6 +586,8 @@ Missed day so adding d156. Had issues with trying to fix markdown previewer to p
 
 ### R1D145
 
+Turns out I needed to use the same version of marked.js as the test suite expected. Finished fcc fe 2 markdown previewer. Working on project 3: drum machine.
+
 ### R1D146
 
 ### R1D147
