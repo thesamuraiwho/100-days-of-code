@@ -582,6 +582,8 @@ Missed day so adding d155.
 
 ### R1D144
 
+Missed day so adding d156. Had issues with trying to fix markdown previewer to pass the tests even through I generate valid markdown and html.
+
 ### R1D145
 
 ### R1D146
@@ -603,3 +605,5 @@ Missed day so adding d155.
 ### R1D154
 
 ### R1D155
+
+### R1D156
