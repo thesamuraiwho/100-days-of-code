@@ -598,6 +598,8 @@ Missed day so adding d158.
 
 ### R1D148
 
+Working on project 3. Struggling to get back in the swing of things so didn't make much progress.
+
 ### R1D149
 
 ### R1D150
