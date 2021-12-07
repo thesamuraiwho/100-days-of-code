@@ -611,7 +611,10 @@ Missed day so adding d160.
 ### R1D151
 
 Missed day so adding d161.
+
 ### R1D152
+
+Working on fcc fe project 3. Finally got the click events to pass 6/8 tests but am struggling to get key presses detected. Tried a bunch of stuff but nothing is working. I'm trying to follow what fcc wants to pass the tests but it seems like a weird way of doing it (no buttons or input elements). Frustrated but not defeated!
 
 ### R1D153
 
