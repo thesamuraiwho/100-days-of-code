@@ -622,6 +622,8 @@ Missed day so adding d162.
 
 ### R1D154
 
+Working on fcc fe project 3. Working on getting the last test to pass for displaying the active pad. Trying to setup with redux but it's not working right now. Rusty and in need of review...
+
 ### R1D155
 
 ### R1D156
