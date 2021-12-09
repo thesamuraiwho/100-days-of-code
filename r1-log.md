@@ -618,6 +618,8 @@ Working on fcc fe project 3. Finally got the click events to pass 6/8 tests but 
 
 ### R1D153
 
+Missed day so adding d162.
+
 ### R1D154
 
 ### R1D155
@@ -633,3 +635,5 @@ Working on fcc fe project 3. Finally got the click events to pass 6/8 tests but 
 ### R1D160
 
 ### R1D161
+
+### R1D162
