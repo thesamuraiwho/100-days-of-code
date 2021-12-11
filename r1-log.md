@@ -626,6 +626,8 @@ Working on fcc fe project 3. Working on getting the last test to pass for displa
 
 ### R1D155
 
+Missed day so adding d163.
+
 ### R1D156
 
 ### R1D157
@@ -639,3 +641,5 @@ Working on fcc fe project 3. Working on getting the last test to pass for displa
 ### R1D161
 
 ### R1D162
+
+### R1D163
