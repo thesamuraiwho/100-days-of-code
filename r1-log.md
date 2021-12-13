@@ -638,7 +638,7 @@ Missed day so adding d164.
 
 ### R1D158
 
-Working on fcc fe project 3 still. Trying to figure out redux and react-redux still. Having a hard time working on getting the state to play nicely on codepen but hopefully things will work soon.
+Working on fcc fe project 3 still. Trying to figure out redux and react-redux still. Having a hard time working on getting the state to play nicely on codepen but hopefully things will work soon. 
 
 ### R1D159
 
