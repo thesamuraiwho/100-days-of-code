@@ -630,7 +630,11 @@ Missed day so adding d163.
 
 ### R1D156
 
+Working on fcc fe project 3. Reviewing redux so I can get the state to be updated to display the last active pad. It's becoming clearer but still not working yet.
+
 ### R1D157
+
+Missed day so adding d164.
 
 ### R1D158
 
@@ -643,3 +647,5 @@ Missed day so adding d163.
 ### R1D162
 
 ### R1D163
+
+### R1D164
