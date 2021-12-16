@@ -650,6 +650,8 @@ Missed day so adding d165.
 
 ### R1D161
 
+Working on fcc fe project 3 but also refreshing with sololearn react-redux course. Learning about hooks so maybe I can get the drumpads to work with hooks. Right now things render but don't update yet.
+
 ### R1D162
 
 ### R1D163
