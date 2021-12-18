@@ -654,8 +654,12 @@ Working on fcc fe project 3 but also refreshing with sololearn react-redux cours
 
 ### R1D162
 
+Missed day so adding d166.
+
 ### R1D163
 
 ### R1D164
 
 ### R1D165
+
+### R1D166
