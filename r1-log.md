@@ -658,6 +658,8 @@ Missed day so adding d166.
 
 ### R1D163
 
+Finished fcc fe project 3 using hooks in react for the display logic and allowing children to control a functional component parent. Also, did some styling and am working on project 4, which is the javascript calculator.
+
 ### R1D164
 
 ### R1D165
