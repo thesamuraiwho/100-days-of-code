@@ -662,6 +662,10 @@ Finished fcc fe project 3 using hooks in react for the display logic and allowin
 
 ### R1D164
 
+Missed day so adding d167.
+
 ### R1D165
 
 ### R1D166
+
+### R1D167
