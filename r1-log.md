@@ -698,6 +698,8 @@ Missed day so adding d175.
 
 ### R1D173
 
+Working on react-redux on sololearn to clear up some concepts for fcc fe project 4. Finished up react portion: learned about `useState` and `useEffect` and the concept of passing functions into props.
+
 ### R1D174
 
 ### R1D175
