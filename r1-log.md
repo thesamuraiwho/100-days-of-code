@@ -705,3 +705,8 @@ Working on react-redux on sololearn to clear up some concepts for fcc fe project
 Working on react-redux on sololearn. Finished up learning how to use redux and integrate with react-redux. Almost done with the section on sololearn. Redux appears to be relatively simple when it comes down to it: create actions, reducer functions that return actions, create a store, provide store access to components with the <Provider> element, and connect components with `connect()(MyComponent)`.
 
 ### R1D175
+
+Missed day so adding d176.
+
+### R1D176
+
