@@ -710,3 +710,4 @@ Missed day so adding d176.
 
 ### R1D176
 
+Still working on getting react-redux working in fcc fe proj 4. Finally think I get the whole mapDispatchToProps and mapStateToProps now: mapDispatchToProps is an object that contains functions/actions to work on the store whereas mapStateToProps contains the data of the store. Will finish it soon hopefully. This is the end of #100DaysOfCode this round and there's a lot to review and improve for next time. Thanks!
